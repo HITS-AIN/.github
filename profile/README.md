@@ -1,1 +1,1 @@
-Welcome to the github repositories of the AIN group!
+Welcome to the github repositories of the [AIN](https://www.h-its.org/research/ain/) group!
